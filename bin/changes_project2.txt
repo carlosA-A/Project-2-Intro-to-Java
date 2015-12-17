@@ -1,0 +1,2 @@
+Added ".txt" to end of fileName variable: fileName=fileName+".txt"; Line 64
+
